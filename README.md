@@ -1,8 +1,8 @@
-# Udacity-Reactnd-Project-MyReads
+# Udacity-Reactnd-MyReads
 
 ## How to start
 1. Clone or download the project `https://github.com/ivanglubish/Udacity-Reactnd-Project-MyReads.git`.
-2. Navigate your terminal to the root directory `cd Udacity-Reactnd-Project-MyReads`.
+2. Navigate your terminal to the root directory `cd Udacity-Reactnd-MyReads`.
 3. Type  `npm install` - to install dependensies.
 4. Type `npm start` - to open your application.
 
